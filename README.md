@@ -34,3 +34,20 @@
 `$ git add .`
 `$ git commit -m "Your awesome message"`
 `$ git push origin master`
+
+### CAMBIOS AL CODIGO Y ACTUALIZAR GITHUB PAGES
+```javascript
+//...
+CAMBIOS AL CODIGO
+//...
+```
+### Deployamos y nuestro codigo se publiara automaticamente
+`$ npm run deploy`
+
+### commit and push your commit to GitHub. Optionally
+`$ git add .`
+`$ git commit -m "Your awesome message"`
+`$ git push origin master`
+
+## correr el proyecto localmente
+`$ npm start`

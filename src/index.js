@@ -1,6 +1,7 @@
 // import React from 'react';
 // import ReactDOM from 'react-dom';
 import './index.css'; 
+import Header from './component/header.js'
 import Hola from './component/component.js'
 import Footer from './component/footer.js'
 // import App from './App';
@@ -27,5 +28,6 @@ ReactDOM.render(
   document.getElementById('root')
 )
 
+render(<Header/>)
 render(<Hola/>)
 render(<Footer/>)
